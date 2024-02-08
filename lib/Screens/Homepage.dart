@@ -82,7 +82,6 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   CustomContainer(imagePath: 'assets/Studio 11.png', itemName: 'Studio', price: '50', maxLimit: '35', ),
                   CustomContainer(imagePath: 'assets/Beauty - Dummy 02.png', itemName: 'assets/Beauty - Dummy 02.png', price: '150', maxLimit: '45', ),
-                  CustomContainer(imagePath: 'assets/assets/Nykaa.png', itemName: 'Nykka', price: '250', maxLimit: '350', ),
                   CustomContainer(imagePath: 'assets/Ratnadeep.png', itemName: 'assets/Ratnadeep', price: '150', maxLimit: '30', ),
                   CustomContainer(imagePath: 'assets/biscuit.png', itemName: 'assets/biscuit', price: '50', maxLimit: '35', ),
                 ],
