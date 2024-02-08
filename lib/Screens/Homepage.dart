@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> {
                     child: Image.asset('assets/Coins.png', width: 24, height: 24), // Replace 'coins_image.png' with your actual image path
                   ),
                   Text(
-                    '100', // Replace with your actual number of coins
+                    '100',
                     style: TextStyle(color: Colors.white),
                   ),
                 ],
