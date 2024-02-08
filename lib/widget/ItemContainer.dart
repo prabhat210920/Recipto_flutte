@@ -47,10 +47,10 @@ class CustomContainer extends StatelessWidget {
                       children: [
                         Padding(
                           padding: EdgeInsets.all(8),
-                          child: Image.asset('assets/Coins.png', width: 24, height: 24), // Replace 'coins_image.png' with your actual image path
+                          child: Image.asset('assets/Coins.png', width: 24, height: 24), 
                         ),
                         Text(
-                          '$price', // Replace with your actual number of coins
+                          '$price', 
                           style: TextStyle(color: Colors.white),
                         ),
                       ],
